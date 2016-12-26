@@ -1,0 +1,11 @@
+{
+  "name": "cap",
+  "main": "index.d.ts",
+  "homepage": "https://github.com/mscdex/cap",
+  "version": "0.1.2",
+  "global": true,
+  "dependencies": {},
+  "globalDependencies": {
+    "node": "registry:dt/node#6.0.0+20161220160159"
+  }
+}
