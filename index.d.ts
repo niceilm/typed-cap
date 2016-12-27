@@ -88,7 +88,6 @@ declare module 'cap' {
 
       originate: number;
 
-      identifier: number;
       receive: number;
       transmit: number;
 
